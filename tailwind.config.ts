@@ -57,6 +57,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        expiry: {
+          critical: "hsl(var(--expiry-critical))",
+          urgent: "hsl(var(--expiry-urgent))",
+          warning: "hsl(var(--expiry-warning))",
+          soon: "hsl(var(--expiry-soon))",
+          month: "hsl(var(--expiry-month))",
+          safe: "hsl(var(--expiry-safe))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",

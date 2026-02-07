@@ -1,0 +1,4 @@
+project_id = "nzswimmvebfdltqxrqbn"
+
+[functions.extract-expiry]
+verify_jwt = false
